@@ -1,0 +1,47 @@
+baseurl = "http://hillsideprojects.github.io/site"
+languageCode = "en-us"
+title = "Hillside Projects"
+theme = "casper"
+paginate = 5
+DisqusShortname = "hillsideprojects"
+Copyright = "All rights reserved - 2016"
+canonifyurls = true
+
+[params]
+  description = "A research/production group formed in 2011 by Emily Mennerdahl and Jonas Böttern."
+  cover = "images/roller.jpg"
+  author = "Hillside Projects"
+  authorlocation = "Stockholm, Sweden"
+  authorwebsite = "http://hillsideprojects.se"
+  bio= "A research/production group formed in 2011 by Emily Mennerdahl and Jonas Böttern."
+  logo = "images/logo.png"
+  # googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  # githubName = "vjeantet"
+  # vimeoName = "vjeantet"
+  facebookName = "HillsideProjects"
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+[permalinks]
+  post = "/:slug/"
+[sitemap]
+  ChangeFreq = ""
+  Filename = "sitemap.xml"
+  Priority = "-1"
+[[menu.main]]
+    name = "News"
+    weight = -120
+    identifier = "news"
+    url = "/"
+[[menu.main]]
+    name = "About"
+    weight = -110
+    identifier = "about"
+    url = "/about"
+[[menu.main]]
+    name = "Searching for the European Roller"
+    weight = -100
+    identifier = "Searching for the European Roller"
+    url = "/searching-for-the-european-roller"
