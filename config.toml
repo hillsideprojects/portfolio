@@ -1,4 +1,4 @@
-baseurl = "http://hillsideprojects.github.io/portfolio"
+baseurl = "http://hillsideprojects.github.io/portfolio/"
 languageCode = "en-us"
 title = "Hillside Projects"
 theme = "casper"
