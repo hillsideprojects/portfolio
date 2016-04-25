@@ -3,10 +3,7 @@ author = "Unknown Author"
 categories = ["painting"]
 date = "2013-06-02"
 description = ""
-image = "/images/south_western_china.jpg"
-featuredalt = ""
-featuredpath = "date"
-linktitle = ""
+image = "images/south_western_china.jpg"
 title = "South Western China"
 type = "post"
 
