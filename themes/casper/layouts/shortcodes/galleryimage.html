@@ -1,9 +1,9 @@
-{{ $galleryprefix := .Page.Params.galleryprefix }}
+{{ $baseurl := .Page.Site.BaseURL }}
 {{ $galleryfolder := .Page.Params.galleryfolder }}
 {{ $gallerythumbnail := .Page.Params.gallerythumbnail }}
 <figure itemscope itemtype="http://schema.org/ImageObject">
-  <a href="{{ $galleryprefix }}/images/{{ $galleryfolder }}/{{ .Get "file" }}" itemprop="contentUrl" data-size="{{ .Get "size" }}">
-      <img src="{{ $galleryprefix }}/images/{{ $galleryfolder }}/{{ $gallerythumbnail }}/{{ .Get "file" }}" itemprop="thumbnail" alt="{{ .Get "caption" }}" />
+  <a href="{{ $baseurl }}/images/{{ $galleryfolder }}/{{ .Get "file" }}" itemprop="contentUrl" data-size="{{ .Get "size" }}">
+      <img src="{{ $baseurl }}/images/{{ $galleryfolder }}/{{ $gallerythumbnail }}/{{ .Get "file" }}" itemprop="thumbnail" alt="{{ .Get "caption" }}" />
   </a>
 
 
