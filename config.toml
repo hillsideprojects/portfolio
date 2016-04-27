@@ -4,7 +4,7 @@ title = "Hillside Projects"
 theme = "casper"
 paginate = 5
 DisqusShortname = "hillsideprojects"
-Copyright = "All rights reserved - 2016"
+Copyright = "c/o Mennerdahl | Barnängsgatan 58 | 11641 Stockholm, Sweden | All rights reserved - 2016"
 canonifyurls = true
 
 [params]
@@ -12,7 +12,7 @@ canonifyurls = true
   cover = "images/european_roller_talk.jpeg"
   author = "Hillside Projects"
   authorlocation = "Stockholm, Sweden"
-  authorwebsite = "http://hillsideprojects.se"
+  authorwebsite = "mailto: info@hillsideprojects.se"
   bio= "A research/production group formed by Emily Mennerdahl and Jonas Böttern."
   logo = "images/logo.gif"
   # googleAnalyticsUserID = "UA-79101-12"
