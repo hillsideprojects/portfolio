@@ -9,12 +9,12 @@ canonifyurls = true
 
 [params]
   description = "A research/production group formed by Emily Mennerdahl and Jonas Böttern."
-  cover = "images/roller.jpg"
+  cover = "images/european_roller_talk.jpeg"
   author = "Hillside Projects"
   authorlocation = "Stockholm, Sweden"
   authorwebsite = "http://hillsideprojects.se"
   bio= "A research/production group formed by Emily Mennerdahl and Jonas Böttern."
-  logo = "images/logo.png"
+  logo = "images/logo.gif"
   # googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   # RSSLink = "http://feeds.feedburner.com/..."
