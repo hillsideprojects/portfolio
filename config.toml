@@ -13,7 +13,7 @@ canonifyurls = true
   author = "Hillside Projects"
   authorlocation = "Stockholm, Sweden"
   authorwebsite = "mailto: info@hillsideprojects.se"
-  bio= "A research/production group formed by Emily Mennerdahl and Jonas Böttern."
+  bio= ""
   logo = "images/logo.gif"
   # googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml

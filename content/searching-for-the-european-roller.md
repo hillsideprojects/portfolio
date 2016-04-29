@@ -26,8 +26,6 @@ gallerythumbnail = "thumbs"
 
 ![Migration Table. Map on table and ink. 137x70x100 cm. 2016](/images/eu_roller_table_of_migration.jpeg "Migration Table")
 
-> Migration Table. Map on table and ink. 137x70x100 cm. 2016
-
 _Searching for the European Roller_ (2016)  is a lecture performance that weaves in and out of the history of a blue disappearing bird. Taking place within a scene like built installation; the lecture includes works on paper, drawings on white-board, plants, slide projector, over -head projector, bird bones, and a humidifier. Applying and experimenting with characters and disparate uses of an “authoritative” voice, the lecture brings to surface questions around culture-nature, belonging and memory. The lecture is delivered with humor and sensitivity, re-tracing the memories and emotions of the blue bird and questioning its need for departure and the strong national desire for its return.
 
 {{< gallery title="Searching for the European Roller" >}}

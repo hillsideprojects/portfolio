@@ -9,7 +9,7 @@ featuredpath = ""
 linktitle = ""
 title = "Conditions of Sea"
 type = "post"
-
+draft= "true"
 +++
 
 {{< vimeo 103627643 >}}

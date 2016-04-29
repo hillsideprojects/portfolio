@@ -6,7 +6,7 @@ description = ""
 image = "images/south_western_china.jpg"
 title = "South Western China"
 type = "post"
-
+draft= "true"
 +++
 
 In South-western China the mountain range spreads over massive areas. Having travelled from afar, it dramatically changes direction as it stretches south. In the East, mountains have always been seen upon as sacred. In the West, up until the 18th century, mountains were considered as something ugly and dangerous. In the era of industrialism and romanticism views changed. Mountains became entities to be conquered.

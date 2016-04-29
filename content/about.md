@@ -1,5 +1,5 @@
 +++
-title = "About Hillside Projects"
+title = "About"
 date = "2016-04-21"
 image = ""
 +++
