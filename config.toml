@@ -6,6 +6,7 @@ paginate = 5
 DisqusShortname = "hillsideprojects"
 Copyright = "c/o Mennerdahl | Barnängsgatan 58 | 11641 Stockholm, Sweden | All rights reserved - 2016"
 canonifyurls = true
+builddrafts = false
 
 [params]
   description = "A research/production group formed by Emily Mennerdahl and Jonas Böttern."
