@@ -9,7 +9,7 @@ canonifyurls = true
 
 [params]
   description = "A research/production group formed by Emily Mennerdahl and Jonas Böttern."
-  cover = "images/european_roller_talk.jpeg"
+  cover = "images/european_roller_performance.jpeg"
   author = "Hillside Projects"
   authorlocation = "Stockholm, Sweden"
   authorwebsite = "mailto: info@hillsideprojects.se"
