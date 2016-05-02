@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Hillside Projects"
 theme = "casper"
 paginate = 5
-DisqusShortname = "hillsideprojects"
+DisqusShortname = ""
 Copyright = "c/o Mennerdahl | Barnängsgatan 58 | 11641 Stockholm, Sweden | All rights reserved - 2016"
 canonifyurls = true
 builddrafts = false
@@ -11,7 +11,7 @@ builddrafts = false
 [params]
   description = "A research/production group formed by Emily Mennerdahl and Jonas Böttern."
   cover = "images/european_roller_performance.jpeg"
-  author = "© Hillside Projects"
+  author = "Hillside Projects"
   authorlocation = "Stockholm, Sweden"
   authorwebsite = "mailto: info@hillsideprojects.se"
   bio= ""
