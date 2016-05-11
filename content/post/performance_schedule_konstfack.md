@@ -15,12 +15,12 @@ You are cordially invited to the presentation of [_Searching for the European Ro
 
 The opening is on the 12th of May 12-20pm and on this day Hillside Projects will present their lecture performance on the hour: 1pm, 2pm, 3pm and 5 pm. The lecture performance is approximately 25 minutes. If you cannot make it on the opening day, the exhibition continues until the 22nd of May. The opening hours are Monday to Friday 12-9pm and Saturday to Sunday 12-4pm.
 
-The lecture performance will then take place at the following time and dates:
-* 13th of May – 1pm
-* 14th of May – 2.30pm
-* 16th of May – 6pm
-* 18th of May – 1pm
-* 21st of May – 2.30pm
+The lecture performance will then take place at the following time and dates:<br/>
+13th of May – 1pm<br/>
+14th of May – 2.30pm<br/>
+16th of May – 6pm<br/>
+18th of May – 1pm<br/>
+21st of May – 2.30pm<br/>
 
 Please note that the installation can be viewed without seeing the lecture performance.
 The work is located in seminar room 5, straight ahead from the entrance. The reception can point you in the right direction.
