@@ -37,7 +37,7 @@ builddrafts = false
     identifier = "news"
     url = "/"
 [[menu.main]]
-    name = "About"
+    name = "Mission"
     weight = -110
-    identifier = "about"
-    url = "/about"
+    identifier = "mission"
+    url = "/mission"

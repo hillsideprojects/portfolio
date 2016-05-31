@@ -9,7 +9,7 @@ title = "Performance Schedule Konstfack"
 type = "post"
 +++
 
-You are cordially invited to the presentation of [_Searching for the European Roller_]({{< relref "searching-for-the-european-roller.md" >}}), a lecture performance and installation by [Hillside Projects]({{< relref "about.md" >}}) (Jonas B&ouml;ttern and Emily Mennerdahl). The exhibition is part of [Konstfacks Spring Exhibition 2016]({{< relref "konstfacks_spring_exhibition_2016.md" >}}) where Jonas B&ouml;ttern is graduating from the Masters Programme of Fine Arts.
+You are cordially invited to the presentation of [_Searching for the European Roller_]({{< relref "searching-for-the-european-roller.md" >}}), a lecture performance and installation by [Hillside Projects]({{< relref "mission.md" >}}) (Jonas B&ouml;ttern and Emily Mennerdahl). The exhibition is part of [Konstfacks Spring Exhibition 2016]({{< relref "konstfacks_spring_exhibition_2016.md" >}}) where Jonas B&ouml;ttern is graduating from the Masters Programme of Fine Arts.
 
 ![Emotional Bird Skeleton, drawing on white-board, 130x80cm, 2016](/images/gallery/eu_roller_emotional_bird_skeleton.gif "Emotional Bird Skeleton")
 <p style="font-size:1.2rem; margin-top: -25px;"><em>Emotional Bird Skeleton</em>, drawing on white-board, 130x80cm, 2016</p>
