@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exhibitions on Hillside Projects</title>
+    <link>http://hillsideprojects.github.io/portfolio/categories/exhibitions/</link>
+    <description>Recent content in Exhibitions on Hillside Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>c/o Mennerdahl | Barnängsgatan 58 | 11641 Stockholm, Sweden | All rights reserved - 2016</copyright>
+    <lastBuildDate>Fri, 29 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://hillsideprojects.github.io/portfolio/categories/exhibitions/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Konstfacks Spring Exhibition 2016</title>
+      <link>http://hillsideprojects.github.io/portfolio/konstfacks-spring-exhibition-2016/</link>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://hillsideprojects.github.io/portfolio/konstfacks-spring-exhibition-2016/</guid>
+      <description>&lt;p&gt;Hillside Projects are presenting &lt;a href=&#34;http://hillsideprojects.github.io/portfolio/searching-for-the-european-roller/&#34;&gt;&lt;em&gt;Searching for the European Roller&lt;/em&gt;&lt;/a&gt; at Konstfacks Spring Exhibition 2016. Their lecture performance will be held on the hour during the opening and on select days throughout the exhibition. Schedule coming soon!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://hillsideprojects.github.io/portfolio/images/konstfack_exhibition_poster_2.jpeg&#34; alt=&#34;Konstfacks Spring Exhibition Poster&#34; title=&#34;Konstfacks Spring Exhibition Poster&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

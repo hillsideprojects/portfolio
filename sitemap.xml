@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://hillsideprojects.github.io/portfolio/</loc>
+    <lastmod>2016-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hillsideprojects.github.io/portfolio/performance-schedule-konstfack/</loc>
+    <lastmod>2016-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hillsideprojects.github.io/portfolio/konstfacks-spring-exhibition-2016/</loc>
+    <lastmod>2016-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hillsideprojects.github.io/portfolio/contact/</loc>
+    <lastmod>2016-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hillsideprojects.github.io/portfolio/searching-for-the-european-roller/</loc>
+    <lastmod>2016-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hillsideprojects.github.io/portfolio/mission/</loc>
+    <lastmod>2016-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
