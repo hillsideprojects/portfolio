@@ -1,5 +1,5 @@
 +++
-author = "Migrating author"
+author = "Hillside Projects"
 categories = ["lecture", "performance", "exhibitions"]
 date = "2016-04-29"
 description = ""
